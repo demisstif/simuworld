@@ -9,7 +9,7 @@ Some thoughts and gains in these two weeks:
 
 ## Thinking
 
-In the analog world, there have been some interesting projects. Now I have found that mainly in the field of games, such as <<Dwarf Fortress>> and <<Minecraft>>. These simulations of the world have a common trait, need Player participation, as the main and even the only variable in the world. This is obviously different from the complex operation of the real world.
+In the analog world, there have been some interesting projects. Now I have found that mainly in the field of games, such as Dwarf Fortress and Minecraft. These simulations of the world have a common trait, need Player participation, as the main and even the only variable in the world. This is obviously different from the complex operation of the real world.
 
 What should be the essence of the world? From ordinary objects to atoms, from atoms to quarks. The essence of the world is a series of interactions of particles from the perspective of the onlookers. If the basic particles are determined, they know their respective properties, Then it should be possible to deduce a world. Perhaps? The origin of the material of the real world has not been scientifically explored. If you only consider reality in the world of simulation, it may be difficult to achieve.
 
